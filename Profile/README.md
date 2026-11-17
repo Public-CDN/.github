@@ -1,4 +1,4 @@
-# Public CDN
+# Public CDN - Repository Count - 44 (regarding .github)
 
 Public proxy and game repositories with HTML or SVG files available for CDN hosting.
 
