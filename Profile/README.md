@@ -45,11 +45,11 @@ Public proxy and game repositories with HTML or SVG files available for CDN host
 
 ## File-Based Projects
 
-The following projects are files rather than CDN-hosted repositories. CDN links are not available for them.
+The following projects are available as HTML files on GitHub. They do not have CDN links.
 
-- YukiOS
-- SLEEK
-- Nostalgia.fun
-- Ghost
-- NeoOS
-- Infamous
+- YukiOS — https://github.com/Public-CDN/YukiOS/blob/main/v00001/YukiOS.html
+- SLEEK — https://github.com/Public-CDN/SLEEK/blob/main/index.html
+- Nostalgia.fun — https://github.com/Public-CDN/Nostalgia.fun/blob/main/Nostalgia.fun-1.html
+- Ghost — https://github.com/Public-CDN/Ghost/blob/main/GhostProxy-1.html
+- NeoOS — https://github.com/Public-CDN/NeoOS/blob/main/NeoOS-1.html
+- Infamous — https://github.com/Public-CDN/Infamous/blob/main/infamous%20%2810th%20copy%29.html
