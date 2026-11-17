@@ -1,4 +1,4 @@
-# Public CDN - Repository Count - 44
+# Public CDN - Repository Count - 45
 
 Public proxy and game repositories with HTML or SVG files available for CDN hosting.
 
@@ -42,6 +42,7 @@ Public proxy and game repositories with HTML or SVG files available for CDN host
 - PeteZah — https://cdn.jsdelivr.net/gh/Public-CDN/PeteZah@nirbytes/nirbytes.svg
 - Duckmath — https://cdn.jsdelivr.net/gh/Public-CDN/Duckmath@main/duckmath.svg
 - Games — https://cdn.jsdelivr.net/gh/Public-CDN/Games@main/doesn.svg
+- Void Network - https://cdn.jsdelivr.net/gh/Public-CDN/Void-Network@main/index.svg
 
 ## File-Based Projects
 
