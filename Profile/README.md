@@ -54,3 +54,7 @@ The following projects are available as HTML files on GitHub. They do not have C
 - Ghost — https://github.com/Public-CDN/Ghost/blob/main/GhostProxy-1.html
 - NeoOS — https://github.com/Public-CDN/NeoOS/blob/main/NeoOS-1.html
 - Infamous — https://github.com/Public-CDN/Infamous/blob/main/infamous%20%2810th%20copy%29.html
+
+## How It Works
+
+Game & Proxy files are hosted on repositories using SVG and HTML file formats. Repositories may have only an SVG file, only an HTML file, or both. Repositories which names end in -HTML are HTML based repositories of a current repositorie containing an SVG file. This is mainly because some repositories are not able to hold an extra HTML file due to formatting.
